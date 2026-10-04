@@ -37,3 +37,4 @@ sim_os_project/
 │
 ├── Makefile                 # Automated build and compilation pipeline
 └── README.md                # Project documentation
+-----
