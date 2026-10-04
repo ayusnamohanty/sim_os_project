@@ -644,13 +644,10 @@ The current project can be extended with additional Operating System features su
 ---
 
 ## 👨‍💻 Author
+**Ayusna Mohanty**
 
 **SimOS Project**
 
 **B.Tech Computer Science and Engineering**
 
 ---
-
-## 📄 License
-
-This project is intended for educational and academic purposes.
