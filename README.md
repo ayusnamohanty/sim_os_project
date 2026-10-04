@@ -234,8 +234,10 @@ This allows the process to be executed again by a CPU core.
 
 ## 📂 Project Structure
 
+## 📂 Project Structure
+
 ```text
-sim_os_project-main/
+sim_os_project/
 │
 ├── include/
 │   ├── Process.hpp
@@ -248,12 +250,25 @@ sim_os_project-main/
 │   ├── ResourceManager.cpp
 │   └── Scheduler.cpp
 │
+├── docs/
+│   ├── diagrams/
+│   ├── evidence/
+│   │   ├── stage-1/
+│   │   ├── stage-2/
+│   │   ├── stage-3/
+│   │   ├── stage-4/
+│   │   ├── stage-5/
+│   │   └── stage-6/
+│   │
+│   ├── Stage-1-Project-Introduction.md
+│   ├── Stage-2-Requirements-and-Development-Plan.md
+│   ├── Stage-3-System-Design.md
+│   ├── Stage-5-Testing-Integration-and-Improvement.md
+│   └── Stage-6-Final-Implementation-and-Presentation.md
+│
 ├── Makefile
 ├── README.md
 └── sim_os
-```
-
----
 
 ## 🧩 Main Components
 
